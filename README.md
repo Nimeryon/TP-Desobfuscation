@@ -30,4 +30,4 @@ Après avoir terminé on peut supprimer les 4 fonctions après les différents S
 ## Que fait le code ?
 Le code affiche les propriétés des éléments root de windows.
 
-On peut trouver un Url qui permet de télécharger un document nous disant de faire une documentation : La voici.
+On peut trouver un Url qui permet de télécharger un document nous disant de faire une documentation.
